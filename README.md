@@ -1,6 +1,6 @@
-# Host-A-Static-Website-on-AWS-And-CI-CD-Pipeline
+# Host a Static-Website-on-AWS-And-CI-CD-Pipeline
 In this project I have tried to host a static website on AWS cloud and used CI-CD Pipeline 
-# Host-A-Static-Website-on-AWS-And-CI-CD-Pipeline
+# Host a Static-Website-on-AWS-And-CI-CD-Pipeline
 
 
  Static Website: You will create a static website (HTML, CSS, JavaScript, and any other assets) that you want to host on AWS. The website can be as simple or complex as you like, and it should have its own Git repository for version control.
